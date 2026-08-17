@@ -34,7 +34,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## 🛡️ License & Attribution
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 - **Project Concept & Resources**: This portfolio project was developed using the dataset and tutorial provided by Baraa Khatib Salkini ([Data With Baraa](https://www.datawithbaraa.com/)).
 - **Code Usage**: You are free to use, modify, and share this repository's contents with proper attribution to both the original creator and my personal implementation.
 
